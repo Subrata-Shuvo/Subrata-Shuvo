@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subrata Shuvo</h1>
-<h3 align="center">I'm a passionate MERN Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrata-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="subrata-shuvo" /> </p>
 
