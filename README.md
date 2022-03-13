@@ -22,7 +22,7 @@ Skills: BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **subratashuvo28@gmail.com**
 
-- 📄 All About Me:https://www.linkedin.com/in/subrata-shuvo/
+- 📄 All About Me: https://www.linkedin.com/in/subrata-shuvo/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
