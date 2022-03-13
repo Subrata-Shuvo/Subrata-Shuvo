@@ -27,11 +27,11 @@ Skills: BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/subrata.shuvo.100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvo.qcsc" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subrata-shuvo-377177179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrata-shuvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvo" height="30" width="40" /></a>
 <a href="https://codepen.io/subrata-shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shuvo" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sshuvo0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/Subrata-Shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/subratashu23c6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sshuvo0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvo" height="30" width="40" /></a>
+<a href="https://dribbble.com/Subrata-Shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shuvo" height="30" width="40" /></a>
+<a href="https://www.behance.net/subratashu23c6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shuvo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
